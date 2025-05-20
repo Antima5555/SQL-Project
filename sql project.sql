@@ -156,11 +156,3 @@ ON b.book_id= o.book_id
 GROUP BY b.book_id;
 
 
-
-
-
-
-
-
-
-
