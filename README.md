@@ -3,13 +3,13 @@ This project is a structured SQL practice dataset for a fictional bookstore. It 
 
 🗂️ Database Structure
 
-Books Table
+ -Books Table
 Stores information about the books available in the store.
 
-Customers Table
+- Customers Table
 Stores information about bookstore customers.
 
-Orders Table
+- Orders Table
 Stores order information including links to customers and books.
 
 📊 SQL Query Highlights
@@ -34,5 +34,5 @@ The project includes 20 queries covering:
      - Most frequently ordered books
 
 - Joins and data relationships:
-      - Linking customers with their orders
+     - Linking customers with their orders
      - Remaining stock after sales
