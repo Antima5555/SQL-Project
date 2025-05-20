@@ -3,7 +3,7 @@ This project is a structured SQL practice dataset for a fictional bookstore. It 
 
 🗂️ Database Structure
 
- -Books Table
+- Books Table
 Stores information about the books available in the store.
 
 - Customers Table
